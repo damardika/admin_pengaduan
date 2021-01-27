@@ -1,0 +1,31 @@
+body, html {
+  height: 100%;  
+
+}
+
+.glow {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  color: rgb(229, 229, 240);
+  line-height: 250%;
+
+  
+}
+p {
+  color: #ecf7ee;
+  text-align: left;
+}
+
+.Home  {
+  font-family: "Open Sans", sans-serif;
+  background: url(https://news.detik.com/x/detail/crimestory/20160125/Penyayang-Ibu,-Pemburu-Seks-Anak/back1-z3g3ab.png);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 150px;
+
+}
+
+
+
